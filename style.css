@@ -514,7 +514,7 @@ footer {
     height: 100%;
   }
   .about-img {
-    height: 47rem;
+    height: 30rem;
   }
   .contact-main {
     height: auto;
@@ -613,9 +613,6 @@ footer {
   }
   .about-header h1 {
     font-size: 5rem;
-  }
-  .about-img {
-    height: 32rem;
   }
   .contact-us {
     width: 100%;
