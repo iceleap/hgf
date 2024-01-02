@@ -495,6 +495,9 @@ footer {
   .index-header h1 {
     font-size: 5rem;
   }
+  .about-header h1{
+    font-size:5rem;
+  }
   .index-header {
     height: 60vh;
   }
@@ -510,11 +513,11 @@ footer {
   .about-header {
     height: 60vh;
   }
-  .about-img img {
-    height: 100%;
-  }
   .about-img {
     height: 30rem;
+  }
+  .about-img img {
+    height: 100%;
   }
   .contact-main {
     height: auto;
