@@ -495,8 +495,8 @@ footer {
   .index-header h1 {
     font-size: 5rem;
   }
-  .about-header h1{
-    font-size:5rem;
+  .about-header h1 {
+    font-size: 5rem;
   }
   .index-header {
     height: 60vh;
@@ -626,8 +626,9 @@ footer {
   .contact-main {
     margin: 4rem auto;
   }
-  .index-yap h3{
+  .index-yap h3 {
     padding-bottom: 3rem;
+  }
 }
 @media only screen and (max-width: 500px) {
   html {
@@ -677,5 +678,4 @@ footer {
   .logo-flex img {
     height: 6rem;
   }
-  
 }
